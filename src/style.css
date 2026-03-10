@@ -1,3 +1,14 @@
-p{
-    color: red;
+.box{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    background-color: aqua;
+}
+
+.game{
+    background-color: rgb(255, 38, 0);
+    width: 200px;
+    height: 200px;
+    margin-left: 500px;
+    border: none;
 }
